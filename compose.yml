@@ -6,8 +6,8 @@ services:
       VERSION: "10"
       RAM_SIZE: "8G"
       CPU_CORES: "2"
-      USERNAME: "bill"
-      PASSWORD: "gates"
+      USERNAME: "DEF_CON1"
+      PASSWORD: "bust.rank"
     devices:
       - /dev/kvm
       - /dev/net/tun
