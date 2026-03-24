@@ -9,6 +9,7 @@ services:
       USERNAME: "DEF_CON1"
       PASSWORD: "bust.rank"
       DISK_SIZE: "256G"
+      MANUAL: "Y"
     devices:
       - /dev/kvm
       - /dev/net/tun
